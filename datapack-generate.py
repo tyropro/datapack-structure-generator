@@ -11,7 +11,7 @@ file = path + r'\pack.mcmeta'
 with open(file, 'w') as f:
     f.write('{\n')
     f.write('    "pack":  {\n')
-    f.write('        "pack_format": 7,\n')
+    f.write('        "pack_format": 8,\n')
     f.write(des)
     f.write('    }\n')
     f.write('}')
