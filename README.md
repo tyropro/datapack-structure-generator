@@ -8,8 +8,8 @@ Download the `.py` (python) file and move to your desired directory. Then open t
 ### Windows
 Download either the `.py` file or the `.bat` file and move to your desired directory. Follow the instructions for the file you have downloaded.
 
-#### - .py
+#### - `.py`
 Open a Powershell or CMD window. Locate to your directory, type `py datapack-generator.py` & hit enter. Wait and answer the prompts respectively.
 
-#### - .bat
+#### - `.bat`
 Open a Powershell or CMD window. Locate to your directory, type `.\datapack-generator.bat` & hit enter. Wait and answer the prompts respectively.
