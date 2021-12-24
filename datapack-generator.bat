@@ -3,7 +3,6 @@
 
 @REM SETS AND CREATESTHE NAMESPACE
 set /p name="Enter namespace: "
-mkdir %name% && cd %name%
 
 @REM CREATES THE PACK.MCMETA FILE
 echo {>> pack.mcmeta
