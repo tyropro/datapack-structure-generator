@@ -11,8 +11,10 @@ Download the `.py` (python) file and move to your desired directory. Then open t
 ### Windows
 Download either the `.py` file or the `.bat` file and move to your desired directory. Follow the instructions for the file you have downloaded.
 
+
+#### - `.bat` (recommended)
+Open a Powershell or CMD window. Locate to your directory, type `.\datapack-generator.bat` & hit enter. Wait and answer the prompts respectively. The file can now be deleted from the directory.
+
 #### - `.py`
 Open a Powershell or CMD window. Locate to your directory, type `py datapack-generator.py` & hit enter. Wait and answer the prompts respectively. The file can now be deleted from the directory.
 
-#### - `.bat`
-Open a Powershell or CMD window. Locate to your directory, type `.\datapack-generator.bat` & hit enter. Wait and answer the prompts respectively. The file can now be deleted from the directory.
