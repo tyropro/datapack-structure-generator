@@ -6,10 +6,11 @@ This file will create the basic structure for a Minecraft Datapack including a c
 
 ## Usage
 ### Linux & MacOS
+(python will need to be installed before hand. follow instructions [here](PythonInstallation.md))
 Download the `.py` (python) file and move to your desired directory. Then open the Terminal inside of that directory (or open one and navigate to the directory). Then  enter `python3 datapack-generator.py`. Wait and answer the prompts respectively. The file can now be deleted from the directory.
 
 ### Windows
-Download either the `.py` file or the `.bat` (recommended) file and move to your desired directory. Follow the instructions for the file you have downloaded. For the `.py` file, Python will need to be installed prematurely.
+Download either the `.py` file or the `.bat` (recommended) file and move to your desired directory. Follow the instructions for the file you have downloaded. For the `.py` file, Python will need to be installed before hand.
 
 
 #### - `.bat` 
